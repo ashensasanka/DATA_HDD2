@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996805630015",
+    "project_id": "data-hdd2",
+    "storage_bucket": "data-hdd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996805630015:android:7ecff531b66fc4e9f9408a",
+        "android_client_info": {
+          "package_name": "com.example.datahdd2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996805630015-bempl623f177gj95eqn169pmae697jcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8B8GP2JHqihBHUbYqoss1EBb0khJlTaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996805630015-bempl623f177gj95eqn169pmae697jcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
